@@ -1,0 +1,15 @@
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/bin/Debug/net7.0/CS_Using_HashSet
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/bin/Debug/net7.0/CS_Using_HashSet.deps.json
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/bin/Debug/net7.0/CS_Using_HashSet.runtimeconfig.json
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/bin/Debug/net7.0/CS_Using_HashSet.dll
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/bin/Debug/net7.0/CS_Using_HashSet.pdb
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.csproj.AssemblyReference.cache
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.AssemblyInfoInputs.cache
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.AssemblyInfo.cs
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.csproj.CoreCompileInputs.cache
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.dll
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/refint/CS_Using_HashSet.dll
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.pdb
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/CS_Using_HashSet.genruntimeconfig.cache
+/Users/tmp/Projects/CS_Using_HashSet/CS_Using_HashSet/obj/Debug/net7.0/ref/CS_Using_HashSet.dll
